@@ -1,3 +1,3 @@
 # basic_php
 
-This file is intend to use pupils in high school.
+This files is intend to use pupils in high school.
